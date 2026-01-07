@@ -12,7 +12,7 @@
 
 ## Current Projects
 
-- 🖥️ **[pi.el](https://github.com/dnouri/pi.el)**: Full-featured Emacs client for the pi coding agent.
+- 🖥️ **[pi-coding-agent](https://github.com/dnouri/pi-coding-agent)**: Emacs-native interface for AI-assisted coding.
 - 🗺️ **[CrimeCity3K](https://crimecity.danielnouri.org/)** ([repo](https://github.com/dnouri/crimecity3k)): Browse 100k+ Swedish police incidents on a map. Filter, search, compare across regions.
 - 🎮 **[roblox-pi-template](https://github.com/dnouri/roblox-pi-template)**: Build Roblox games by talking to AI.
 - 🪑 **[Posturama](https://dnouri.github.io/Posturama)** ([repo](https://github.com/dnouri/Posturama)): Webcam-based posture alerts to prevent neck strain. No install, no data leaves your browser.
