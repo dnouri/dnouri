@@ -19,11 +19,13 @@
 - ✈️ **[Aviation Anomaly](https://anomaly.danielnouri.org/)** ([repo](https://github.com/dnouri/aviation-anomaly)): 4B ADS-B records filtered to find the real emergencies.
 - 🐳 **[claucker](https://github.com/dnouri/claucker)**: `--dangerously-skip-permissions` without the danger. Claude Code in a container.
 - 🧪 **[pytest-bashdoctest](https://github.com/dnouri/pytest-bashdoctest)**: Docs rot. Test examples in your documentation to prevent that.
+- 🌅 **[daylight-hours](https://dnouri.github.io/daylight-hours/)** ([repo](https://github.com/dnouri/daylight-hours)): Visualize sunrise, sunset, and daylight patterns throughout the year.
 
 ## Legacy Work
 
 - 📚 **[nolearn](https://github.com/dnouri/nolearn)**: Pioneering deep learning library, integrated Lasagne and scikit-learn (954⭐)
 - 🔬 **[skorch](https://github.com/skorch-dev/skorch)**: Co-author of the popular scikit-learn compatible PyTorch wrapper (6k⭐)
+- ⚙️ **[palladium](https://github.com/ottogroup/palladium)**: Framework for setting up predictive analytics services (488⭐)
 - 🏥 **Medical AI**: US patents on AI-guided ultrasound, probe navigation ([US10993697](https://patents.google.com/patent/US20170360401A1)) and automated diagnosis ([US11540808](https://patents.google.com/patent/US11540808B2))
 - 🏆 **[Kaggle Master](https://www.kaggle.com/dnouri)**: Six competitions, three top-10 finishes, three top-10%
 - 🐋 **[Using deep learning to listen for whales](https://danielnouri.org/notes/2014/01/10/using-deep-learning-to-listen-for-whales)**: Applied ImageNet CNN architecture to audio signals (2014)
