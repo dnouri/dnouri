@@ -17,6 +17,7 @@
 - 🎮 **[roblox-pi-template](https://github.com/dnouri/roblox-pi-template)**: Build Roblox games by talking to AI.
 - 🪑 **[Posturama](https://dnouri.github.io/Posturama)** ([repo](https://github.com/dnouri/Posturama)): Webcam-based posture alerts to prevent neck strain. No install, no data leaves your browser.
 - ✈️ **[Aviation Anomaly](https://anomaly.danielnouri.org/)** ([repo](https://github.com/dnouri/aviation-anomaly)): 4B ADS-B records filtered to find the real emergencies.
+- 🎲 **[TRELLIS.2](https://github.com/dnouri/TRELLIS.2/tree/modal-integration)**: Fork with Modal serverless deployment for image-to-3D generation.
 - 🐳 **[claucker](https://github.com/dnouri/claucker)**: `--dangerously-skip-permissions` without the danger. Claude Code in a container.
 - 🧪 **[pytest-bashdoctest](https://github.com/dnouri/pytest-bashdoctest)**: Docs rot. Test examples in your documentation to prevent that.
 - 🌅 **[daylight-hours](https://dnouri.github.io/daylight-hours/)** ([repo](https://github.com/dnouri/daylight-hours)): Visualize sunrise, sunset, and daylight patterns throughout the year.
