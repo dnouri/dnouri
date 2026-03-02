@@ -15,8 +15,11 @@
 - 🖥️ **[pi-coding-agent](https://github.com/dnouri/pi-coding-agent)**: Emacs-native interface for AI-assisted coding.
 - 🗺️ **[CrimeCity3K](https://crimecity.danielnouri.org/)** ([repo](https://github.com/dnouri/crimecity3k)): Browse 100k+ Swedish police incidents on a map. Filter, search, compare across regions.
 - 🎮 **[roblox-pi-template](https://github.com/dnouri/roblox-pi-template)**: Build Roblox games by talking to AI.
+- 🌾 **[Infarmous](https://www.roblox.com/games/110323145458244)** ([repo](https://github.com/dnouri/infarmous)): Multiplayer farming game on Roblox, vibe coded using `roblox-pi-template`.
 - 🪑 **[Posturama](https://dnouri.github.io/Posturama)** ([repo](https://github.com/dnouri/Posturama)): Webcam-based posture alerts to prevent neck strain. No install, no data leaves your browser.
 - ✈️ **[Aviation Anomaly](https://anomaly.danielnouri.org/)** ([repo](https://github.com/dnouri/aviation-anomaly)): 4B ADS-B records filtered to find the real emergencies.
+- 📝 **[md-ts-mode](https://github.com/dnouri/md-ts-mode)**: Tree-sitter powered Markdown major mode for Emacs 29+.
+- 📐 **[markdown-table-wrap](https://github.com/dnouri/markdown-table-wrap)**: Automatic Markdown table column wrapping for Emacs.
 - 🎲 **[TRELLIS.2](https://github.com/dnouri/TRELLIS.2/tree/modal-integration)**: Fork with Modal serverless deployment for image-to-3D generation.
 - 🐳 **[claucker](https://github.com/dnouri/claucker)**: `--dangerously-skip-permissions` without the danger. Claude Code in a container.
 - 🧪 **[pytest-bashdoctest](https://github.com/dnouri/pytest-bashdoctest)**: Docs rot. Test examples in your documentation to prevent that.
